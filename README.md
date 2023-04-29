@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img "height=180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=rich4rds0n&show_icons=true&include_all_commits=true&theme=merko&locale=pt-br"/>
+    <img "height=180cm" align="center" src="https://github-readme-stats.vercel.app/api/?username=rich4rds0n&show_icons=true&include_all_commits=true&theme=merko&locale=pt-br"/>
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rich4rds0n&layout=compact&theme=merko&locale=pt-br"/>
