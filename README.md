@@ -1,7 +1,7 @@
 ## Olá, eu sou o Richardson !
 
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github-readme-stats.vercel.app/api?rich4rds0n=anuraghazra">
     <img "height=180cm" align="center" src="https://github-readme-stats.vercel.app/api/?username=rich4rds0n&show_icons=true&include_all_commits=true&theme=merko&locale=pt-br"/>
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
@@ -14,7 +14,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
 ##
