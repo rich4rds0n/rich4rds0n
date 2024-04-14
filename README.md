@@ -2,6 +2,8 @@
 
 ## Olá, eu sou o Richardson !
 
+![](https://komarev.com/ghpvc/?username=rich4rds0n&label=Profile%20Visits&color=0A53BD&style=flat)
+
 <div>
   <a href="https://github-readme-stats.vercel.app/api?rich4rds0n=anuraghazra">
     <img "height=180cm" align="center" src="https://github-readme-stats.vercel.app/api/?username=rich4rds0n&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br"/>
